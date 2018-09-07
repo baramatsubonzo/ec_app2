@@ -76,3 +76,6 @@ gem 'jquery-rails'
 gem 'bootstrap-sass'
 #application.cssに｢@import "bootstrap-sprockets;"｣｢@import "bootstap"｣を追加してください。
 #application.jsに｢//=require jquery｣｢//=require jquery_usj｣｢//=require bootstrap-sprockets｣の追加を忘れないでください。
+
+#クレジットカード決済を行うために、payjpをアプリに組み込みます。
+gem 'payjp'
